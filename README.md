@@ -1,2 +1,4 @@
-# Java-Calculator
-- A very basic calculator built via JAVA
+# Java-Practice
+CONTAINS: 
+    - A very basic calculator built via JAVA
+    - A switch statemnt for differing continents
